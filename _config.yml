@@ -31,7 +31,7 @@ github_username:  jekyll
 
 # Build setting
 theme: type-on-strap
-remote_theme: type-on-strap
+#remote_theme: type-on-strap
 
 plugins:
   - jekyll-feed
