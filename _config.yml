@@ -30,9 +30,9 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: Elevate yourself to the next level  # Change Blog header text
-header_feature_image: assets/img/pexels/goldfish.jpg
+header_feature_image: assets/img/pexels/goldfish.webp
 footer_text: >
-  Follow on: <a href="https://www.instagram.com/syntaxx_errors/">instagram</a> and <a href="https://www.linkedin.com/in/luis-flores-cuevas/">linkedin</a>
+  Follow on:
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable

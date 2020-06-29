@@ -1,16 +1,16 @@
 # Icons on the footer
-rss: true
-email_address:    # Full email address, e.g. "sam@example.com"
+rss:
+email_address:   lfloresc@ucsd.edu # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
-instagram:
+github: "Jazz-Trumpet"
+instagram: "syntaxx_errors"
 keybase:
-linkedin:         # Full URL
+linkedin:    https://www.linkedin.com/in/luis-flores-cuevas/     # Full URL
 pinterest:
 reddit:
 soundcloud:
@@ -24,8 +24,7 @@ wordpress:
 youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
 
 # rss specify feed path
-feed:
-  path: feed.xml
+
 
 # Share button options
 share:
@@ -35,6 +34,6 @@ share:
   pinterest:
   pocket:
   reddit: true
-  linkedin:
+  linkedin: true
   wordpress:
   email: true
