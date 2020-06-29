@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # SITE CONFIGURATION
-baseurl: 
+baseurl:
 url: "https://www.inspirocreative.studio"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -30,7 +30,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: Elevate yourself to the next level  # Change Blog header text
-header_feature_image: assets/img/pexels/goldfish.webp
+header_feature_image: assets/img/pexels/goldfish.jpg
 footer_text: >
   Follow on:
 
