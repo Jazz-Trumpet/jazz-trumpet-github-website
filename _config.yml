@@ -20,7 +20,7 @@
 
 # SITE CONFIGURATION
 baseurl: "/jazz-trumpet-github-website"
-url: "https://www.more-quarantine-things.com"
+url: "https://github.com/Jazz-Trumpet"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Quarantine things                                     # site's title
