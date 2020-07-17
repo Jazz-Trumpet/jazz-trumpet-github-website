@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: post
 title: About
+
 permalink: /about/
-feature-img: "assets/img/pexels/Trumpet landscape-01.jpg"
+color: purple
 tags: [About, Archive]
 ---
 
-Trumpet playing and art have been my life since elementary school.
 
-Here is finally a place where I have collected my passions for your viewing pleasure
 
-I make custom work for people who ask including tattoos, shirts, stickers, and postcards
+Thank you for visiting my website, dedicated to passing down the torch of knowledge to the younger generations.
+I want to be a well-rounded educator with a positive message. I believe that anyone can learn how to be uniquely successful with their dreams given they train to persevere.
+All are welcome to my website to access my personal experiences with Music, Art, and Learning to learn.
