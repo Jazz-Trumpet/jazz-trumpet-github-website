@@ -25,12 +25,12 @@ $x-sm-break: 300px;
 
 // Brand colours
 $theme-color: #337ab7;
-$brand-color: #0C0032;
-$background-color: #0C0032;
+$brand-color: #fff;
+$background-color: #fff;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
 // Typography colours
-$text-color: #CAFAFE;
+$text-color: #262626;
 $meta: #595959; //lowest gray for accessible color
 $link-color: $theme-color;
 $selection-color: #D4D4D4; // visible when highlighting text
@@ -39,7 +39,7 @@ $blockquote-color: #EEF7FA; // $background-color;
 // Header
 $header-background-color: $theme-color; // Only used when no header image
 $header-text-color: #fff;
-$header-link-color: #CAFAFE;
+$header-link-color: #383838;
 $navbar-separator-opacity: 0;
 
 // Feature image for articles
