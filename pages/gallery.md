@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 subtitle: Be Bold
 permalink: /gallery/
-gallery_path: "assets/img/pexels"
+gallery_path: "assets/img/artP"
 tags: [Gallery, Photo]
 ---
 
