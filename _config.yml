@@ -26,7 +26,7 @@ url: "https://www.inspirocreative.studio"
 title: "InspiroCreative"                                     # site's title
 description: "A website about Making music and Art"      # used by search engines
 avatar: assets/img/Stickers/olin.png          # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/img/Stickers/olin.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: "Dedicated to inspiring creativity and optimism for the younger generations" # Change Blog header text
