@@ -3,7 +3,7 @@ layout: post
 title: About
 
 permalink: /about/
-color: purple
+color: blueviolet
 tags: [About, Archive]
 ---
 
