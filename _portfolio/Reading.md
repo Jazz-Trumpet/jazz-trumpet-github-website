@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading, Reading, and Reading
-img: "assets/img/portfolio/Reading_In_Dark.png"
+img: "assets/img/portfolio/Reading_In_Dark.jpg"
 date: 26 July 2020
 tags: [Inspiration, Imagination, Reading]
 ---
