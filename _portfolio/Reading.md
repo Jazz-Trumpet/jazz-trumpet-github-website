@@ -2,7 +2,7 @@
 layout: post
 title: Reading, Reading, and Reading
 img: "assets/img/portfolio/Reading_In_Dark.png"
-date: 22 July 2020
+date: 26 July 2020
 tags: [Inspiration, Imagination, Reading]
 ---
 ![image]({{ page.img | relative_url }})
