@@ -41,9 +41,7 @@ You will notice that intervals between notes becomes octaves, therefore repeats,
 
 The major scale can be considered the base scale in Western Music. Students are encouraged to learn all 12 possible Major scales, one for each note in the chromatic scale.
 
-Music Educators are encouraging you to learn these major scales and master them well because learning them is the key to learning other types of scales.
-A major scale becomes a minor scale if you start on the 2nd, 3rd, or 6th note.
-These are modes of a major scale, and are easily learned when enough time is dedicated to learning thee major scale.
+
 
 Click on this image to learn more about modes and scales:
 [![Modes](/assets/img/MusicEducation/Major_scale.jpg)](https://learningmusic.ableton.com/advanced-topics/modes.html "Redirect to Modes")
