@@ -9,6 +9,7 @@ author: Luis
 
 {% include aligner.html images= "portfolio/ravensticker.png" column=1 %}
 
+{% include babylon/index.html %}
 
 Making stickers at home brings the delight of materializing your creations and distributing them
 unto the world.
